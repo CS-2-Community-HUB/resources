@@ -1,10 +1,10 @@
-## 🧰 Beginner Guide: Setting Up a GitHub Repository
+## Beginner Guide: Setting Up a GitHub Repository
 
 This guide explains the main ways to start a project on GitHub and introduces the role of `.gitignore`.
 
 ---
 
-### 🚀 1. Ways to Create a Repository
+###  1. Ways to Create a Repository
 
 #### ✅ Option A: Create on GitHub.com
 
@@ -118,7 +118,7 @@ Skip this section if you are working on your own or just learning the basics.
 3. Write a descriptive title and description
 4. Click **Create pull request**
 
-### 👋 Open a Pull Request (PR)
+###  Open a Pull Request (PR)
 
 1. Go to your repo on GitHub
 2. Click the "Compare & pull request" button
@@ -127,7 +127,7 @@ Skip this section if you are working on your own or just learning the basics.
 
 
 
-#### 🧾 What Does a Pull Request Do?
+####  What Does a Pull Request Do?
 
 A **Pull Request (PR)** is a formal request to merge changes from one branch (often a feature branch) into another (usually `main`).
 
