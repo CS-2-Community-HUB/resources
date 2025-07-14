@@ -111,6 +111,5 @@ git co main
 
 ---
 
-Let me know if you'd like an advanced section next!
 
 
