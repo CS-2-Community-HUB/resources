@@ -109,8 +109,8 @@ git push origin feature/my-feature-name
 
 ---
 
-### Open a Pull Request (PR)
-
+### Open a Pull Request (PR) when Collaborating on Project 
+Skip this section if you are working on your own or just learning the basics.
 
 
 1. Go to your repo on GitHub
