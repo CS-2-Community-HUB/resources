@@ -1,10 +1,10 @@
-## 🚀 Intermediate Git & GitHub Concepts
+##  Intermediate Git & GitHub Concepts
 
 This section covers intermediate Git skills useful for students who have mastered the basics and are ready to collaborate on real projects.
 
 ---
 
-### 🧪 Branching Best Practices
+### Branching Best Practices
 
 - Use meaningful branch names:
   ```bash
@@ -22,7 +22,7 @@ This section covers intermediate Git skills useful for students who have mastere
 
 ---
 
-### 🔁 Rebasing vs Merging
+###  Rebasing vs Merging
 
 - `git merge` keeps a full history (safer, easier for beginners).
 - `git rebase` creates a linear history (cleaner but riskier).
@@ -45,7 +45,7 @@ git show <commit-hash>
 
 ---
 
-### ♻️ Reverting to a Previous Version
+### Reverting to a Previous Version
 
 #### Undo Local Changes (Before Commit)
 Discard edits and go back to the last committed version:
@@ -93,7 +93,7 @@ git checkout -b revert-test
 
 ---
 
-### 🧠 Pro Tip: Aliases for Speed
+###  Pro Tip: Aliases for Speed
 
 Add shortcuts to your `.gitconfig`:
 ```bash
