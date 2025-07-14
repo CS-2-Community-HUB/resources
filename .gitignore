@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS metadata
+Icon?
+._*
+
+# macOS Finder folder settings
+.Spotlight-V100
+.Trashes
+
+# macOS volume settings
+.VolumeIcon.icns
+
+# Thumbnails
+ehthumbs.db
+Thumbs.db
