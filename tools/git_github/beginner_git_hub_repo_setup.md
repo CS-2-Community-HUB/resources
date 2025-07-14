@@ -76,5 +76,4 @@ You can use a [GitHub-provided template](https://github.com/github/gitignore) wh
 
 ---
 
-Let me know if you'd like a follow-up guide on pushing changes, creating branches, or submitting a pull request!
 
