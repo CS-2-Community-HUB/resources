@@ -45,3 +45,9 @@ Below is a quick reference for working with Git and GitHub in a student-friendly
 - **Merge**:  
   Combines changes from one branch into another, often done through a pull request.
 
+## ✅ Where to Learn More
+
+- [W3Schools Git Tutorial](https://www.w3schools.com/git/git_intro.asp?remote=github) – Easy to read and good for beginners
+- [GitHub Skills](https://skills.github.com/) – Hands-on, interactive modules
+- [Git Handbook (GitHub Docs)](https://docs.github.com/en/get-started/using-git/about-git) – Official guide from GitHub
+
