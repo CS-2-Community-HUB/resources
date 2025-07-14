@@ -137,5 +137,14 @@ A **Pull Request (PR)** is a formal request to merge changes from one branch (of
 
 > ✅ Pull Requests help maintain clean, reviewed, and collaborative code — especially in group projects.
 
+---
+
+## ✅ Additional Reference
+
+For a simple, beginner-friendly reference to Git and GitHub concepts, check out:
+
+- [W3Schools Git Tutorial](https://www.w3schools.com/git/git_intro.asp?remote=github)
+
+Use this to look up commands like `clone`, `commit`, or `push` while working on your project.
 
 
