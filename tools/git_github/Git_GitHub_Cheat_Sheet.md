@@ -43,7 +43,7 @@
 
 ---
 
-## ⌘ Git Commands (for Desktop Users)
+## ⌘ Git Commands 
 
 ```bash
 git init        # Start a Git repo in your folder
