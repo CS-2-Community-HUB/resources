@@ -1,74 +1,47 @@
-# Git and GitHub Cheat Sheet: Key Terms and Commands
+## Essential Git & GitHub Commands
+
+Below is a quick reference for working with Git and GitHub in a student-friendly development workflow.
+
+| **Command / Action** | **What It Does** |
+|----------------------|------------------|
+| `git clone <repo-url>` | Makes a full copy of the GitHub repo on your computer or VS Code environment. |
+| `git status` | Shows what files have changed and what’s ready to commit. |
+| `git branch` | Lists all branches in your local repository. |
+| `git branch <new-branch-name>` | Creates a new branch to work in safely without touching `main`. |
+| `git checkout <branch-name>` | Switches to a different branch. |
+| `git checkout -b <new-branch-name>` | Creates and switches to a new branch in one step. |
+| `git add .` | Stages all changed files so they’re ready to commit. |
+| `git commit -m "Your message"` | Saves a snapshot of your staged changes with a descriptive message. |
+| `git push origin <branch-name>` | Uploads your local branch and commits to GitHub. |
+| `git log` | Shows the history of commits in the current branch. |
+| **(GitHub) Pull Request** | A request to merge your branch changes into the `main` branch after review. |
+| **(GitHub) Merge** | Combines your changes into `main` after a pull request is approved. |
 
 ---
 
-## 🔍 Core Concepts
+### 🔀 Concepts
 
-**Version Control** – A system that tracks changes to files over time so you can recall specific versions later.
+- **Clone**: `git clone <repo-url>`  
+  Makes a local copy of a repository from GitHub.
 
-**Git** – A version control system used to track changes locally on your computer.
+- **Status**: `git status`  
+  Shows current changes, staged files, and branch info.
 
-**GitHub** – A cloud-based platform for hosting Git repositories and collaborating with others.
+- **Commit**: `git commit -m "Message"`  
+  Records a snapshot of your changes to the repo history.
 
-**Repository (Repo)** – A folder (online or local) that contains your project files and tracked history.
+- **Push**: `git push origin <branch-name>`  
+  Sends your local commits to GitHub.
 
-**Commit** – A snapshot of your changes with a message describing what you did.
+- **Pull**: `git pull origin <branch-name>`  
+  Updates your local branch with the latest from GitHub.
 
-**Push** – Sending your local commits to GitHub.
+- **Fork**:  
+  A personal copy of someone else's repository on GitHub. You can modify it without affecting the original.
 
-**Pull** – Fetching updates from GitHub to your local project.
+- **Branch**:  
+  A separate line of development, useful for adding features or fixes without affecting `main`.
 
-**Fork** – A personal copy of someone else's repository on GitHub.
+- **Merge**:  
+  Combines changes from one branch into another, often done through a pull request.
 
-**Clone** – A local copy of a GitHub repository.
-
-**README.md** – A markdown file that introduces and explains your project.
-
-**Branch** – A separate line of development, useful for adding features without affecting the main project.
-
-**Merge** – Combining changes from one branch into another.
-
----
-
-## ⚙️ Common GitHub Actions
-
-| Action | What It Does |
-|--------|---------------|
-| Fork   | Copies a repo to your own GitHub account |
-| Clone  | Downloads a repo to your computer |
-| Commit | Saves a version of your changes |
-| Push   | Uploads your commits to GitHub |
-| Pull   | Gets the latest commits from GitHub |
-| Pull Request | Propose and discuss changes before merging |
-
----
-
-## ⌘ Git Commands 
-
-```bash
-git init        # Start a Git repo in your folder
-git status      # Show what has changed
-git add .       # Stage all changed files
-git commit -m "Your message"  # Save the snapshot
-git push        # Send commits to GitHub
-git pull        # Get changes from GitHub
-```
-
----
-
-## 🌍 GitHub Pages Tips
-- Only works with public repositories
-- Enable via **Settings > Pages**
-- Use `main` as the source branch, root folder (`/`)
-- URL will be: `https://yourusername.github.io/repo-name/`
-
----
-
-## ✨ Helpful Links
-- [GitHub Docs](https://docs.github.com)
-- [GitHub Pages](https://pages.github.com)
-- [Markdown Guide](https://www.markdownguide.org)
-
----
-
-Keep this cheat sheet handy during your projects!
