@@ -75,5 +75,67 @@ __pycache__/
 You can use a [GitHub-provided template](https://github.com/github/gitignore) when creating the repo, or create your own locally.
 
 ---
+## Pushing Changes, Branching & Pull Requests
+
+### Push Changes to GitHub
+
+After editing files:
+
+```bash
+git add .
+git commit -m "Describe your changes"
+git push origin main
+```
+
+If you're working on a branch:
+
+```bash
+git push origin branch-name
+```
+
+---
+
+### 🌐 Create and Switch to a New Branch
+
+```bash
+git checkout -b feature/my-feature-name
+```
+
+Make your changes on this branch. Then push it:
+
+```bash
+git push origin feature/my-feature-name
+```
+
+---
+
+### Open a Pull Request (PR)
+
+
+
+1. Go to your repo on GitHub
+2. Click the "Compare & pull request" button
+3. Write a descriptive title and description
+4. Click **Create pull request**
+
+### 👋 Open a Pull Request (PR)
+
+1. Go to your repo on GitHub
+2. Click the "Compare & pull request" button
+3. Write a descriptive title and description
+4. Click **Create pull request**
+
+
+
+#### 🧾 What Does a Pull Request Do?
+
+A **Pull Request (PR)** is a formal request to merge changes from one branch (often a feature branch) into another (usually `main`).
+
+- It shows the difference between the two branches.
+- Others can **review**, **comment**, or **request changes** before approving.
+- Once approved, your work can be safely merged into the main project.
+
+> ✅ Pull Requests help maintain clean, reviewed, and collaborative code — especially in group projects.
+
 
 
