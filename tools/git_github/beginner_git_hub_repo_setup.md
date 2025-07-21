@@ -2,7 +2,7 @@
 
 ## 📦 What is a Git Repository?
 
-A **Git repository** (or *repo*) is a storage space where your project lives. It tracks every change you make to your files, allowing you to go back to earlier versions, collaborate with others, and manage different versions of your project.
+A **Git repository** (or *repo*) is a storage space where your project files live, Think of it a as a folder where you track every change you make to your files, allowing you to go back to earlier versions, collaborate with others, and manage different versions of your project.
 
 There are two main types of repositories:
 
@@ -157,8 +157,12 @@ A **Pull Request (PR)** is a formal request to merge changes from one branch (of
 
 For a simple, beginner-friendly reference to Git and GitHub concepts, check out:
 
-- [W3Schools Git Tutorial](https://www.w3schools.com/git/git_intro.asp?remote=github)
+- [Beginner’s guide to GitHub repositories: How to create your first repo](https://github.blog/developer-skills/github/beginners-guide-to-github-repositories-how-to-create-your-first-repo/)
+- [CS-2-Community-HUB: Essential Git & GitHub Commands
+](https://github.com/CS-2-Community-HUB/resources/blob/main/tools/git_github/Git_GitHub_Cheat_Sheet.md)
+  
+  
+ 
 
-Use this to look up commands like `clone`, `commit`, or `push` while working on your project.
 
 
