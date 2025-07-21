@@ -1,5 +1,19 @@
 ## Beginner Guide: Setting Up a GitHub Repository
 
+## 📦 What is a Git Repository?
+
+A **Git repository** (or *repo*) is a storage space where your project lives. It tracks every change you make to your files, allowing you to go back to earlier versions, collaborate with others, and manage different versions of your project.
+
+There are two main types of repositories:
+
+- **Local Repository**: Stored on your own computer; contains your files and a hidden `.git` folder.
+- **Remote Repository**: Hosted online (e.g., GitHub) so you can back up and share your work.
+
+A Git repository helps you:
+- ✅ Track changes
+- ✅ Work in branches
+- ✅ Collaborate 
+
 This guide explains the main ways to start a project on GitHub and introduces the role of `.gitignore`.
 
 ---
