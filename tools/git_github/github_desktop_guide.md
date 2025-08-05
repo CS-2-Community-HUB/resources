@@ -13,6 +13,7 @@ This guide walks you through using GitHub Desktop to version and back up your co
 ---
 
 ## 🧰 Initial Setup
+Create a free GitHub account if you do not have one. Select Join for free. Follow the prompts to create your personal account or organization. You may want to use your personal email rather than school email. You will need to verify your email.  https://github.com/pricing 
 
 1. **Download GitHub Desktop**  
    https://desktop.github.com
@@ -33,12 +34,12 @@ This guide walks you through using GitHub Desktop to version and back up your co
 1. Open GitHub Desktop
 2. Click **File > New Repository**
 3. Fill in:
-   - Name: `CS1050_Spring2025`
-   - Local Path: Navigate to your `GitHubRepos` folder
-   - Language: Java
-   - Initialize with .gitignore: ✅ Java
+   - Name: 
+   - Local Path: For example navigate to your `GitHubRepos` folder
+   - Language:  For example if setting up for Java
+   - Initialize with .gitignore: For example ✅ Java
 4. Click **Create Repository**
-5. Click **Publish Repository** (Keep it private!)
+5. Click **Publish Repository** (Keep it private if it is class work!)
 
 ### 🔁 Clone an Existing Repository
 
@@ -50,12 +51,12 @@ This guide walks you through using GitHub Desktop to version and back up your co
 
 ## 🔄 Working with Changes
 
-1. Open your project in Eclipse and make code changes.
+1. Open your project in your IDE (for example in Eclipse) and make code changes.
 2. Go back to GitHub Desktop — your changed files will appear in the “Changes” tab.
 3. Check the files you want to include in your commit.
-4. Write a **commit summary** and (optionally) a longer description.
+4. Write a **commit summary** and (optionally) a longer description. ![commit](./images/github-dsktop_commit.png)
 5. Click **Commit to main**.
-6. Click **Push origin** to back up your work to GitHub.
+6. Click **Push origin** to back up your work to GitHub. ![push](./images/github-dsktop-push.png)
 
 > 🧠 *Note:* When you check files to include in a commit, this is technically called “staging” in Git, but GitHub Desktop keeps it simple and doesn’t use that term.
 
@@ -72,24 +73,17 @@ Typical workflow:
 1. Click **Fetch origin**
 2. Then click **Pull origin**
 
----
-
-## 📂 Organizing Folders in Your Repository
-
-Recommended folders:
-- `Assignments/` — your assignment source files and documents
-- `EclipseWorkspace/` — Eclipse projects
-- `ClassResources/` — course lecture slides, examples, etc.
-- `TechDocs/` — technical documentation
 
 ---
 
 ## 💡 Tips and Best Practices
 
-- Don’t use "Open in external editor" — instead, navigate to your repo manually in Eclipse or your IDE.
+- Use github desktop to manage changes - commit, push, fetch, pull and do not use your IDE like Eclipse to manage the versions.
+- Don’t use "Open in external editor" — instead, navigate to your repo manually 
 - Use **View on GitHub** to confirm your commits are backed up.
 - Use **Show in Finder/File Explorer** to locate your files on your computer.
 - Commit and push often to avoid losing work.
+  ![view and show](./github-dsktp-show-view.png)
 
 ---
 
@@ -98,3 +92,4 @@ Recommended folders:
 - [Beginner GitHub Repo Setup](./beginner_git_hub_repo_setup.md)
 - [Git & GitHub Cheat Sheet](./Git_GitHub_Cheat_Sheet.md)
 - [GitHub Desktop Docs](https://docs.github.com/en/desktop)
+- [How GitHub Can Be Used With a Team](https://www.youtube.com/watch?v=w3jLJU7DT5E ) 
