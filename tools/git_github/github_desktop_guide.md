@@ -54,7 +54,7 @@ Create a free GitHub account if you do not have one. Select Join for free. Follo
 1. Open your project in your IDE (for example in Eclipse) and make code changes.
 2. Go back to GitHub Desktop — your changed files will appear in the “Changes” tab.
 3. Check the files you want to include in your commit.
-4. Write a **commit summary** and (optionally) a longer description. ![commit](./images/github-dsktop_commit.png)
+4. Write a **commit summary** and (optionally) a longer description. ![commit](images/github-dsktop_commit.png)
 5. Click **Commit to main**.
 6. Click **Push origin** to back up your work to GitHub. ![push](./images/github-dsktop-push.png)
 
