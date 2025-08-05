@@ -54,9 +54,9 @@ Create a free GitHub account if you do not have one. Select Join for free. Follo
 1. Open your project in your IDE (for example in Eclipse) and make code changes.
 2. Go back to GitHub Desktop — your changed files will appear in the “Changes” tab.
 3. Check the files you want to include in your commit.
-4. Write a **commit summary** and (optionally) a longer description. ![commit](images/github-dsktop_commit.png)
+4. Write a **commit summary** and (optionally) a longer description. ![commit](./images/github-dsktp_commit.png)
 5. Click **Commit to main**.
-6. Click **Push origin** to back up your work to GitHub. ![push](./images/github-dsktop-push.png)
+6. Click **Push origin** to back up your work to GitHub. ![push](./images/github-dsktp-push.png)
 
 > 🧠 *Note:* When you check files to include in a commit, this is technically called “staging” in Git, but GitHub Desktop keeps it simple and doesn’t use that term.
 
@@ -79,11 +79,11 @@ Typical workflow:
 ## 💡 Tips and Best Practices
 
 - Use github desktop to manage changes - commit, push, fetch, pull and do not use your IDE like Eclipse to manage the versions.
+- Commit and push often to avoid losing work.
 - Don’t use "Open in external editor" — instead, navigate to your repo manually 
 - Use **View on GitHub** to confirm your commits are backed up.
 - Use **Show in Finder/File Explorer** to locate your files on your computer.
-- Commit and push often to avoid losing work.
-  ![view and show](./github-dsktp-show-view.png)
+  ![view and show](./images/github-dsktp-show-view.png)
 
 ---
 
