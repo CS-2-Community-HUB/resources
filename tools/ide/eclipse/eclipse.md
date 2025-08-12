@@ -21,7 +21,7 @@ Eclipse is a
 
 ---
 
-## Set Up and Cheatsheet 
-- [Steps Set Up Eclipse](../eclipse/Setup%20Eclipse.pdf)
-- [Eclipse Cheat sheet](../eclipse/Eclipse%20Cheat%20Sheet.pdf) 
+## Resources
+- [Set Up Eclipse (Google Doc)](https://docs.google.com/document/d/1n2Ccp8WnDZuFas2bQuG6qnqFfR0f-KOk/edit)
+- [Eclipse Cheat sheet (Google Slides](https://docs.google.com/presentation/d/1zN6ux8dob_w-8bft0ey3BpuAKhaK4x8QmyowwRUbl0A/edit?slide=id.p1#slide=id.p1)
 
